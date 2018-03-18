@@ -1,0 +1,12 @@
+body{
+	font-size: 16px;
+	border:1px solid black;
+	padding:20px;
+}
+input, select{
+	margin: 20px;
+}
+select{
+	font-size: 16px;
+	padding:  5px;
+}
